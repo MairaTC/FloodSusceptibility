@@ -32,3 +32,5 @@ O resultado final é um arquivo .tif em que cada pixel possui um valor de 1 a 5,
 4. Defina os pesos de declividade, HAND e uso do solo (a soma deve ser igual a 1,0)
 5. Defina o caminho de saída do raster final (opcional)
 6. Clique em OK e aguarde o processamento
+
+**OBS: Existe um shapefile para teste do plugin na pasta sample_data**
