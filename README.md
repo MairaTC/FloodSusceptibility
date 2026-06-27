@@ -18,11 +18,11 @@ O resultado final é um arquivo .tif em que cada pixel possui um valor de 1 a 5,
  
 | Classe | Faixa |
 |---|---|
-| Muito Baixa | 1,00 a 1,79 |
-| Baixa | 1,80 a 2,59 |
-| Média | 2,60 a 3,39 |
-| Alta | 3,40 a 4,19 |
-| Muito Alta | 4,20 a 5,00 |
+| Muito Baixa | até 2,2 |
+| Baixa | 2,2 a 3,0 |
+| Média | 3,0 a 3,8 |
+| Alta | 3,8 a 4,6 |
+| Muito Alta | 4,6 a 5,0 |
  
 ## Como usar
  
